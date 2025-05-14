@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html , body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+#box{
+    height: 400px;
+    width: 400px;
+    display: block;
+    /* background-color: rgb(181, 106, 9); */
+}
+
